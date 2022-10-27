@@ -3,10 +3,10 @@
     {
       "month": "February",
       "year": "2022",
-      "title": "Human transcription factor protein interaction 1 networks (PMID:35140242)",
+      "title": "Human transcription factor protein interaction 1 networks",
       "pubmeds": [
         {
-          "id": "unassigned3314",
+          "id": "35140242",
           "author": "Helka Göös et al.",
           "year": "2022"
         }
