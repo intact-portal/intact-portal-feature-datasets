@@ -1,6 +1,138 @@
 {
   "datasets": [
     {
+      "month": "July",
+      "year": "2023",
+      "title": "Large-scale phosphomimetic screening identifies phospho-modulated motif-based protein interactions",
+      "pubmeds": [
+        {
+          "id": "37219487",
+          "author": "Kliche J et al.",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2023",
+      "title": "Interactome dynamics of RAF1-BRAF kinase monomers and dimers",
+      "pubmeds": [
+        {
+          "id": "37045861",
+          "author": "Iglesias-Martinez LF et al.",
+          "year": "2023"
+        }
+      ]
+    },
+     {
+      "month": "March",
+      "year": "2023",
+      "title": "Pioneer factor ASCL1 cooperates with the mSWI/SNF complex at distal regulatory elements to regulate human neural differentiation",
+      "pubmeds": [
+        {
+          "id": "36931659",
+          "author": "Păun O et al.",
+          "year": "2023"
+        }
+      ]
+    },
+     {
+      "month": "January",
+      "year": "2023",
+      "title": "A multi-omics integrative network map of maize",
+      "pubmeds": [
+        {
+          "id": "36581701",
+          "author": "Han L et al.",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2023",
+      "title": "A comprehensive SARS-CoV-2-human protein-protein interactome reveals COVID-19 pathobiology and potential host therapeutic targets",
+      "pubmeds": [
+        {
+          "id": "36217030",
+          "author": "Zhou Y et al.",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2023",
+      "title": "The protein-protein interaction landscape of transcription factors during gynoecium development in Arabidopsis",
+      "pubmeds": [
+        {
+          "id": "36088536",
+          "author": "Herrera-Ubaldo H et al.",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2022",
+      "title": "ZBTB18 inhibits SREBP-dependent lipid synthesis by halting CTBPs and LSD1 activity in glioblastoma",
+      "pubmeds": [
+        {
+          "id": "36414381",
+          "author": "Ferrarese R et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "year": "2022",
+      "title": "Mapping of the plant SnRK1 kinase signalling network reveals a key regulatory role for the class II T6P synthase-like proteins",
+      "pubmeds": [
+        {
+          "id": "36376753",
+          "author": "Van Leene J et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "year": "2022",
+      "title": "Chr21 protein-protein interactions: enrichment in proteins involved in intellectual disability, autism, and late-onset Alzheimer's disease",
+      "pubmeds": [
+        {
+          "id": "35914814",
+          "author": "Viard J et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2022",
+      "title": "Calpain-mediated cleavage generates a ZBTB18 N-terminal product that regulates HIF1A signaling and glioblastoma metabolism",
+      "pubmeds": [
+        {
+          "id": "35800763",
+          "author": "Masilamani AP et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2022",
+      "title": "ENTREP/FAM189A2 encodes a new ITCH ubiquitin ligase activator that is downregulated in breast cancer",
+      "pubmeds": [
+        {
+          "id": "34927784",
+          "author": "Tsunoda T et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
       "month": "February",
       "year": "2022",
       "title": "Human transcription factor protein interaction networks",
@@ -9,6 +141,30 @@
           "id": "35140242",
           "author": "Helka Göös et al.",
           "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "year": "2021",
+      "title": "Elucidation of the Translation Initiation Factor Interaction Network of Haloferax volcanii Reveals Coupling of Transcription and Translation in Haloarchaea",
+      "pubmeds": [
+        {
+          "id": "34764944",
+          "author": "Schramm F et al.",
+          "year": "2021"
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "year": "2021",
+      "title": "Repression by the Arabidopsis TOPLESS corepressor requires association with the core mediator complex",
+      "pubmeds": [
+        {
+          "id": "34075876",
+          "author": "Leydon AR et al.",
+          "year": "2021"
         }
       ]
     },
