@@ -1,6 +1,42 @@
 {
   "datasets": [
     {
+      "month": "October",
+      "year": "2023",
+      "title": "Spatacsin regulates directionality of lysosome trafficking by promoting the degradation of its partner AP5Z1",
+      "pubmeds": [
+        {
+          "id": "unassigned3554",
+          "author": "Pierga A et al.",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2023",
+      "title": "A central chaperone-like role for 14-3-3 proteins in human cells",
+      "pubmeds": [
+        {
+          "id": "36931259",
+          "author": "Segal D et al.",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2022",
+      "title": "Tau interactome maps synaptic and mitochondrial processes associated with neurodegeneration",
+      "pubmeds": [
+        {
+          "id": "35063084",
+          "author": "Tracy TE et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
       "month": "July",
       "year": "2023",
       "title": "Large-scale phosphomimetic screening identifies phospho-modulated motif-based protein interactions",
