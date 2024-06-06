@@ -1,12 +1,84 @@
 {
   "datasets": [
     {
+      "month": "June",
+      "year": "2024",
+      "title": "Mapping the human miRNA interactome by CLASH reveals frequent noncanonical binding",
+      "pubmeds": [
+        {
+          "id": "23622248",
+          "author": "Helwak A et al.,",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "year": "2024",
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "pubmeds": [
+        {
+          "id": "33961781",
+          "author": "Huttlin EL et al.,",
+          "year": "2021"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2024",
+      "title": "OpenCell: Endogenous tagging for the cartography of human cellular organization",
+      "pubmeds": [
+        {
+          "id": "35271311",
+          "author": "Cho NH et al.,",
+          "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2024",
+      "title": "The social and structural architecture of the yeast protein interactome",
+      "pubmeds": [
+        {
+          "id": "37968396",
+          "author": "Michaelis AC et al.,",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2024",
+      "title": "Comparative interactome analysis of α-arrestin families in human and Drosophila",
+      "pubmeds": [
+        {
+          "id": "38270169",
+          "author": "Lee KT.,",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "month": "January",
+      "year": "2024",
+      "title": "Using brain cell-type-specific protein interactomes to interpret neurodevelopmental genetic signals in schizophrenia",
+      "pubmeds": [
+        {
+          "id": "37207277",
+          "author": "Hsu YH et al.,",
+          "year": "2023"
+        }
+      ]
+    },
+    {
       "month": "October",
       "year": "2023",
       "title": "Spatacsin regulates directionality of lysosome trafficking by promoting the degradation of its partner AP5Z1",
       "pubmeds": [
         {
-          "id": "unassigned3554",
+          "id": "37871017",
           "author": "Pierga A et al.",
           "year": "2023"
         }
@@ -210,7 +282,7 @@
       "title": "A map of binary SARS-CoV-2 protein interactions implicates host immune regulation and ubiquitination",
       "pubmeds": [
         {
-          "id": "unassigned2933",
+          "id": "36217029",
           "author": "Kim et al.",
           "year": "2021"
         }
