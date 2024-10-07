@@ -1,6 +1,30 @@
 {
   "datasets": [
     {
+      "month": "August",
+      "year": "2024",
+      "title": "Next-generation Drosophila protein interactome map and its functional implications",
+      "pubmeds": [
+        {
+          "id": "38944040",
+          "author": "Bhat G, Li K, Locke G, et al.,",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2024",
+      "title": "Proteome-scale characterisation of motif-based interactome rewiring by disease mutations",
+      "pubmeds": [
+        {
+          "id": "39009827",
+          "author": "Kliche J et al.,",
+          "year": "2024"
+        }
+      ]
+    },
+    {
       "month": "June",
       "year": "2024",
       "title": "Mapping the human miRNA interactome by CLASH reveals frequent noncanonical binding",
