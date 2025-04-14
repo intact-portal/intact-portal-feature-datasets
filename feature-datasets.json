@@ -1,6 +1,54 @@
 {
   "datasets": [
     {
+      "month": "January",
+      "year": "2025",
+      "title": "A Nitrogen-specific Interactome Analysis Sheds Light on the Role of the SnRK1 and TOR Kinases in Plant Nitrogen Signaling",
+      "pubmeds": [
+        {
+          "id": "39307424",
+          "author": "Persyn Freya et al.,",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "year": "2025",
+      "title": "A multi-scale map of cell structure fusing protein images and interactions.",
+      "pubmeds": [
+        {
+          "id": "34819669",
+          "author": "Qin et al.,",
+          "year": "2021"
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "year": "2025",
+      "title": "GATA6-AS1 Regulates Intestinal Epithelial Mitochondrial Functions, and its Reduced Expression is Linked to Intestinal Inflammation and Less Favourable Disease Course in Ulcerative Colitis",
+      "pubmeds": [
+        {
+          "id": "36655602",
+          "author": "Sosnovski KE et al.,",
+          "year": "2023"
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "year": "2025",
+      "title": "Multimodal cell maps as a foundation for structural and functional genomics.",
+      "pubmeds": [
+        {
+          "id": "40205054",
+          "author": "Schaffer et al.,",
+          "year": "2025"
+        }
+      ]
+    },
+    {
       "month": "August",
       "year": "2024",
       "title": "Next-generation Drosophila protein interactome map and its functional implications",
