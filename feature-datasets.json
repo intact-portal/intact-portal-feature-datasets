@@ -1,6 +1,18 @@
 {
   "datasets": [
     {
+      "month": "May",
+      "year": "2022",
+      "title": "Systematic discovery of mutation-directed neo-protein-protein interactions in cancer",
+      "pubmeds": [
+        {
+          "id": " 35512704",
+          "author":"Mo X et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
       "month": "January",
       "year": "2025",
       "title": "A Nitrogen-specific Interactome Analysis Sheds Light on the Role of the SnRK1 and TOR Kinases in Plant Nitrogen Signaling",
