@@ -1,6 +1,30 @@
 {
   "datasets": [
     {
+      "month": "July",
+      "year": "2025",
+      "title": "Global Proximity Interactome of the Human Macroautophagy Pathway",
+      "pubmeds": [
+        {
+          "id": "34524948",
+          "author": "Tu YXI et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "year": "2025",
+      "title": "The solute carrier superfamily interactome",
+      "pubmeds": [
+        {
+          "id": "unassigned3795",
+          "author": "Frommelt F et al.",
+          "year": "2025"
+        }
+      ]
+    },
+    {
       "month": "June",
       "year": "2025",
       "title": "Structural and functional analysis of cancer-associated missense variants in the retinoblastoma protein pocket domain",
