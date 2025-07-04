@@ -18,9 +18,10 @@
       "title": "The solute carrier superfamily interactome",
       "pubmeds": [
         {
-          "id": "unassigned3795",
+          "id": "40355756",
           "author": "Frommelt F et al.",
-          "year": "2025"
+          "year": "2025",
+          "intactId": "unassigned3795"
         }
       ]
     },
@@ -90,9 +91,11 @@
       "title": "Multimodal cell maps as a foundation for structural and functional genomics.",
       "pubmeds": [
         {
-          "id": "unassigned3799",
+          "id": "40205054",
           "author": "Schaffer et al.,",
-          "year": "2025"
+          "year": "2025",
+          "intactId": "unassigned3799",
+          "intactYear": "2024"
         }
       ]
     },
@@ -2255,27 +2258,33 @@
       "pubmeds": [
         {
           "id": "15148393",
-          "author": "Chen ES et al."
+          "author": "Chen ES et al.",
+          "year": "2004"
         },
         {
           "id": "9285594",
-          "author": "Sutani T et al."
+          "author": "Sutani T et al.",
+          "year": "1997"
         },
         {
           "id": "11914278",
-          "author": "Hagstrom KA et al."
+          "author": "Hagstrom KA et al.",
+          "year": "2002"
         },
         {
           "id": "12773391",
-          "author": "Sakai A et al."
+          "author": "Sakai A et al.",
+          "year": "2003"
         },
         {
           "id": "12966087",
-          "author": "McDonald WH et al."
+          "author": "McDonald WH et al.",
+          "year": "2003"
         },
         {
           "id": "15148393",
-          "author": "Chen ES et al."
+          "author": "Chen ES et al.",
+          "year": "2004"
         }
       ]
     },
@@ -2286,11 +2295,13 @@
       "pubmeds": [
         {
           "id": "16606699",
-          "author": "Arifuzzaman et al."
+          "author": "Arifuzzaman et al.",
+          "year": "2006"
         },
         {
           "id": "16857963",
-          "author": "Zong C et al."
+          "author": "Zong C et al.",
+          "year": "2006"
         }
       ]
     },
@@ -2301,7 +2312,8 @@
       "pubmeds": [
         {
           "id": "11486023",
-          "author": "Naiki et al."
+          "author": "Naiki et al.",
+          "year": "2001"
         }
       ]
     },
@@ -2312,7 +2324,8 @@
       "pubmeds": [
         {
           "id": "16713569",
-          "author": "Lim et al."
+          "author": "Lim et al.",
+          "year": "2006"
         }
       ]
     },
@@ -2323,7 +2336,8 @@
       "pubmeds": [
         {
           "id": "16518874",
-          "author": "Mikula et al."
+          "author": "Mikula et al.",
+          "year": "2006"
         }
       ]
     },
@@ -2334,7 +2348,8 @@
       "pubmeds": [
         {
           "id": "16396496",
-          "author": "Foster et al."
+          "author": "Foster et al.",
+          "year": "2006"
         }
       ]
     },
@@ -2345,7 +2360,8 @@
       "pubmeds": [
         {
           "id": "16439208",
-          "author": "Duchaine et al."
+          "author": "Duchaine et al.",
+          "year": "2006"
         }
       ]
     },
@@ -2356,7 +2372,8 @@
       "pubmeds": [
         {
           "id": "16267556",
-          "author": "LaCount et al."
+          "author": "LaCount et al.",
+          "year": "2005"
         }
       ]
     },
@@ -2367,7 +2384,8 @@
       "pubmeds": [
         {
           "id": "16429126",
-          "author": "Gavin et al."
+          "author": "Gavin et al.",
+          "year": "2006"
         }
       ]
     },
@@ -2389,23 +2407,28 @@
       "pubmeds": [
         {
           "id": "16169070",
-          "author": "Stelzl et al."
+          "author": "Stelzl et al.",
+          "year": "2005"
         },
         {
           "id": "16189514",
-          "author": "Rual et al."
+          "author": "Rual et al.",
+          "year": "2005"
         },
         {
           "id": "16263121",
-          "author": "Falsone et al."
+          "author": "Falsone et al.",
+          "year": "2005"
         },
         {
           "id": "16273344",
-          "author": "Hu et al."
+          "author": "Hu et al.",
+          "year": "2005"
         },
         {
           "id": "15766533",
-          "author": "Zhao et al."
+          "author": "Zhao et al.",
+          "year": "2005"
         }
       ]
     }
