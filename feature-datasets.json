@@ -1,6 +1,18 @@
 {
   "datasets": [
     {
+      "month": "September",
+      "year": "2025",
+      "title": "Multi-proteomic profiling of the varicella-zoster virus-host interface reveals host susceptibilities to severe infection",
+      "pubmeds": [
+        {
+          "id": "40739040",
+          "author": Girault V et al.",
+          "year": "2025"
+        }
+      ]
+    },
+    {
       "month": "July",
       "year": "2025",
       "title": "Global Proximity Interactome of the Human Macroautophagy Pathway",
