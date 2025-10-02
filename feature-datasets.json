@@ -1,6 +1,18 @@
 {
   "datasets": [
     {
+      "month": "October",
+      "year": "2025",
+      "title": "A physical wiring diagram for the human immune system.",
+      "pubmeds": [
+        {
+          "id": "35922511",
+          "author": "Shilts J, et al.",
+          "year": "2022"
+        }
+      ]
+    },
+    {
       "month": "September",
       "year": "2025",
       "title": "Multi-proteomic profiling of the varicella-zoster virus-host interface reveals host susceptibilities to severe infection",
