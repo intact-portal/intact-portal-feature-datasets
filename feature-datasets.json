@@ -1,6 +1,18 @@
 {
   "datasets": [
     {
+      "month": "November",
+      "year": "2025",
+      "title": "Global fungal-host interactome mapping identifies host targets of candidalysin",
+      "pubmeds": [
+        {
+          "id": "38413612",
+          "author": "Zhang TY et al.,",
+          "year": "2024"
+        }
+      ]
+    },
+    {
       "month": "October",
       "year": "2025",
       "title": "A physical wiring diagram for the human immune system.",
