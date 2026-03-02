@@ -1,6 +1,19 @@
 {
   "datasets": [
     {
+      "month": "March",
+      "year": "2026",
+      "title": "Quantitative fragmentomics allow affinity mapping of interactomes",
+      "pubmeds": [
+        {
+          "id": "36115835",
+          "author": "Gergo Gogl et al.,",
+          "year": "2022"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/intact-portal/intact-portal-feature-datasets/main/assets/36115835.png"
+    },
+    {
       "month": "January",
       "year": "2026",
       "title": "N-terminal proteoforms may engage in different protein complexes",
