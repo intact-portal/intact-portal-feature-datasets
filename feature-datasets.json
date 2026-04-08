@@ -1,6 +1,19 @@
 {
   "datasets": [
     {
+      "month": "April",
+      "year": "2026",
+      "title": "Multiplexed mapping of the interactome of GPCRs with receptor activity-modifying proteins",
+      "pubmeds": [
+        {
+          "id": "39083597",
+          "author": "Thomas Sakmar et al.,",
+          "year": "2024"
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/intact-portal/intact-portal-feature-datasets/main/assets/39083597.png"
+    },
+    {
       "month": "March",
       "year": "2026",
       "title": "Quantitative fragmentomics allow affinity mapping of interactomes",
